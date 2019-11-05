@@ -1,0 +1,7 @@
+C:\Users\ek308666\Desktop\C-Sharp-projects\chapter 1\wineglass\wineglass\bin\Debug\wineglass.exe.config
+C:\Users\ek308666\Desktop\C-Sharp-projects\chapter 1\wineglass\wineglass\bin\Debug\wineglass.exe
+C:\Users\ek308666\Desktop\C-Sharp-projects\chapter 1\wineglass\wineglass\bin\Debug\wineglass.pdb
+C:\Users\ek308666\Desktop\C-Sharp-projects\chapter 1\wineglass\wineglass\obj\Debug\wineglass.csprojAssemblyReference.cache
+C:\Users\ek308666\Desktop\C-Sharp-projects\chapter 1\wineglass\wineglass\obj\Debug\wineglass.csproj.CoreCompileInputs.cache
+C:\Users\ek308666\Desktop\C-Sharp-projects\chapter 1\wineglass\wineglass\obj\Debug\wineglass.exe
+C:\Users\ek308666\Desktop\C-Sharp-projects\chapter 1\wineglass\wineglass\obj\Debug\wineglass.pdb

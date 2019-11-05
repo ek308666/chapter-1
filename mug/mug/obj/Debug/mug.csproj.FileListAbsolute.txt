@@ -1,0 +1,7 @@
+C:\Users\ek308666\Desktop\C-Sharp-projects\chapter 1\mug\mug\bin\Debug\mug.exe.config
+C:\Users\ek308666\Desktop\C-Sharp-projects\chapter 1\mug\mug\bin\Debug\mug.exe
+C:\Users\ek308666\Desktop\C-Sharp-projects\chapter 1\mug\mug\bin\Debug\mug.pdb
+C:\Users\ek308666\Desktop\C-Sharp-projects\chapter 1\mug\mug\obj\Debug\mug.csprojAssemblyReference.cache
+C:\Users\ek308666\Desktop\C-Sharp-projects\chapter 1\mug\mug\obj\Debug\mug.csproj.CoreCompileInputs.cache
+C:\Users\ek308666\Desktop\C-Sharp-projects\chapter 1\mug\mug\obj\Debug\mug.exe
+C:\Users\ek308666\Desktop\C-Sharp-projects\chapter 1\mug\mug\obj\Debug\mug.pdb
